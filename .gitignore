@@ -1,0 +1,52 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+*.ogv
+*.ts
+
+# Subtitles / captions
+*.srt
+*.vtt
+*.ass
+
+# Video thumbnails
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.wma
+*.m4a
+
+# Node dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Carpetas generadas por el sistema
+dist/
+
+# IA resourse
+AGENTS.md
